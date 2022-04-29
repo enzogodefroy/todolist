@@ -1,0 +1,3 @@
+une troisieme chose	la troisieme chose a faire	TODO
+une deuxieme chose	la deuxieme chose a faire	IN_PROGRESS
+une premiere chose		DONE

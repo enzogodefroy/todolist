@@ -1,0 +1,17 @@
+<ToDoList>
+<Task>
+<name>une troisieme chose</name>
+<comment>la troisieme chose a faire</comment>
+<status>TODO</status>
+</Task>
+<Task>
+<name>une deuxieme chose</name>
+<comment>la deuxieme chose a faire</comment>
+<status>IN_PROGRESS</status>
+</Task>
+<Task>
+<name>une premiere chose</name>
+<comment></comment>
+<status>DONE</status>
+</Task>
+</ToDoList>
